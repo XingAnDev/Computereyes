@@ -863,3 +863,11 @@ OVERLAY_FPS
 ```
 
 before starting real-time detection.
+You are free to use, modify, and redistribute this software
+for non-commercial purposes.
+
+Commercial use, sale, or distribution for profit is prohibited.
+
+This software is provided "AS IS", without warranty of any kind.
+The author is not responsible for any damage, loss, or problems
+resulting from the use of this software.
